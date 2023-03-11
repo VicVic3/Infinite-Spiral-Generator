@@ -5,7 +5,8 @@
   
   Welcome to my program to create infinite spirals and weird geometries.<br>
   There are three files which basically make the same; an excel (.xlsm), an python file (.py) and an executable (.exe)<br>
-  
+<br>
+<br>
   - The Exel file:    ISG v1.0 in Excel with macros.xlsm<br>
   	By default, Windows blocks the use of macros because is a unknown file.<br>
 	You must to unlock the macros on the file:<br>
