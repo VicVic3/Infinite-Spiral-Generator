@@ -6,9 +6,9 @@
   There are three files which basically make the same; an excel (.xlsm), an python file (.py) and an executable (.exe)<br>
   
   - The Exel file:    ISG v1.0 in Excel with macros.xlsm<br>
-        By default, Windows blocks the use of macros because is a unknown file.<br>
-        You must to unlock the macros on the file:<br>
-        Right click on the file -> properties -> at the bottom of the general window click on the unlock box to tick it -> aplicate and accept.<br>
+  		By default, Windows blocks the use of macros because is a unknown file.<br>
+		You must to unlock the macros on the file:<br>
+		Right click on the file -> properties -> at the bottom of the general window click on the unlock box to tick it -> aplicate and accept.<br>
 <br> 
         Use the buttons to change the parameters of the spirals and enjoy it.<br>
 <br> 
