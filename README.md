@@ -1,8 +1,7 @@
 # Infinite-Spiral-Generator v1.0
 <pre>
-  Created by VicVic3<br>
-  on 06/03/2023<br>
-  
+  Created by VicVic3     on 06/03/2023   <br>
+<br>
   Welcome to my program to create infinite spirals and weird geometries.<br>
   There are three files which basically make the same; an excel (.xlsm), an python file (.py) and an executable (.exe)<br>
 <br>
