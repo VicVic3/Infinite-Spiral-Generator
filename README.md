@@ -6,7 +6,7 @@
   There are three files which basically make the same; an excel (.xlsm), an python file (.py) and an executable (.exe)
   
   - The Exel file:    ISG v1.0 in Excel with macros.xlsm
-      By default, Windows blocks the use of macros because is a unknown file./n
+      By default, Windows blocks the use of macros because is a unknown file.
       You must to unlock the macros on the file:
            Right click on the file -> properties -> at the bottom of the general window click on the unlock box to tick it -> aplicate and accept.
           
