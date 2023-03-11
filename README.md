@@ -14,9 +14,7 @@
   + The Pyton file:    ISG v1.0.py<br>
         You need to install some libraries. For example the pygame module.<br>
             Open a comand window (for example: Hotkey Windows+R and write cmd) and write the next code:  pip install pygame<br>
-<br>
-        You also must have the math, sys, random and numpy libraries but someone are preinstalled on python.<br>
-<br>          
+        You also must have the math, sys, random and numpy libraries but someone are preinstalled on python.<br>          
         To use the program:<br>
            - The space key pause and resume the program.<br>
            - The exit key exits the program.<br>
